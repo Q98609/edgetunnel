@@ -456,6 +456,12 @@ DOMAIN-SUFFIX,doh.360.cn
 IP-CIDR,1.12.12.12/32,no-resolve
 
 # AccelerateDirectSites
+DOMAIN-SUFFIX,kejilion.pro
+DOMAIN-SUFFIX,gamer520.com
+DOMAIN-SUFFIX,hexuezx.cn
+DOMAIN-SUFFIX,70games.net
+DOMAIN-SUFFIX,lixianla.com
+DOMAIN-SUFFIX,zyrhires.com
 DOMAIN-SUFFIX,tilldream.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,115.com
