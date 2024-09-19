@@ -1,4 +1,5 @@
 # 直连列表
+PROCESS-NAME,iptest,DIRECT
 
 # MyList
 DOMAIN-SUFFIX,13th.tech
