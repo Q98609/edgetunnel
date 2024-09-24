@@ -266,6 +266,7 @@ PROCESS-NAME,WebTorrentHelper
 PROCESS-NAME,amuled
 PROCESS-NAME,aria2c
 PROCESS-NAME,clash
+PROCESS-NAME,clash_meta
 PROCESS-NAME,cloudflared
 PROCESS-NAME,fdm
 PROCESS-NAME,parsecd
