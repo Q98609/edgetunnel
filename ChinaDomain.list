@@ -1,6 +1,7 @@
 # 直连列表
 
 # MyList
+DOMAIN-SUFFIX,douyin.starrydyn.com
 DOMAIN-SUFFIX,*.cn
 DOMAIN-SUFFIX,imgse.com
 DOMAIN-SUFFIX,api-iptest.bestip.one
