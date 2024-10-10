@@ -30,3 +30,4 @@ URL-REGEX,assets\d+\.xboxlive\.(com|cn)
 # BestiP
 PROCESS-NAME,iptest
 PROCESS-NAME,curl
+PROCESS-NAME,cfnat
